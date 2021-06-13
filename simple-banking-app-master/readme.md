@@ -1,6 +1,4 @@
-## GRIP JAN 21
+## GRIP  JUNE 21
 
-#### Task 1 - Simple Banking App
-
-### This is the backend for the task using express and node js.
+#### Banking App
 
